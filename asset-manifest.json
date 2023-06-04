@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.79114167.css",
-    "main.js": "/static/js/main.6b410e11.js",
+    "main.js": "/static/js/main.8d0648ac.js",
     "static/media/trap-game.png": "/static/media/trap-game.16996a9b3cc68762fe6c.png",
-    "static/media/profile-hero.jpg": "/static/media/profile-hero.9335a75fbe2a554c6095.jpg",
     "static/media/nearby-app.png": "/static/media/nearby-app.03db8075e1f295de4ee1.png",
+    "static/media/profile-hero.jpg": "/static/media/profile-hero.0b1bb94534ddd2736b3e.jpg",
     "static/media/booking-web.png": "/static/media/booking-web.e394aade7aefb0e32560.png",
     "static/media/nearby-web.png": "/static/media/nearby-web.4ba92edd55f38024bdbf.png",
     "static/media/rock-paper-scissor-game.png": "/static/media/rock-paper-scissor-game.c7a11b39b5641c4b66e2.png",
@@ -14,10 +14,10 @@
     "static/media/notation-converter.png": "/static/media/notation-converter.642545d755a2ed2a4377.png",
     "index.html": "/index.html",
     "main.79114167.css.map": "/static/css/main.79114167.css.map",
-    "main.6b410e11.js.map": "/static/js/main.6b410e11.js.map"
+    "main.8d0648ac.js.map": "/static/js/main.8d0648ac.js.map"
   },
   "entrypoints": [
     "static/css/main.79114167.css",
-    "static/js/main.6b410e11.js"
+    "static/js/main.8d0648ac.js"
   ]
 }
