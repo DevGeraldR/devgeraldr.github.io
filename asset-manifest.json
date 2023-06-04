@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.28619d31.css",
-    "main.js": "/static/js/main.f41b8f35.js",
+    "main.css": "/static/css/main.79114167.css",
+    "main.js": "/static/js/main.6b410e11.js",
+    "static/media/trap-game.png": "/static/media/trap-game.16996a9b3cc68762fe6c.png",
     "static/media/profile-hero.jpg": "/static/media/profile-hero.9335a75fbe2a554c6095.jpg",
     "static/media/nearby-app.png": "/static/media/nearby-app.03db8075e1f295de4ee1.png",
     "static/media/booking-web.png": "/static/media/booking-web.e394aade7aefb0e32560.png",
     "static/media/nearby-web.png": "/static/media/nearby-web.4ba92edd55f38024bdbf.png",
+    "static/media/rock-paper-scissor-game.png": "/static/media/rock-paper-scissor-game.c7a11b39b5641c4b66e2.png",
+    "static/media/calculator.png": "/static/media/calculator.b863f8845a4f1df01595.png",
+    "static/media/word-guessing-game.png": "/static/media/word-guessing-game.dd76dd58d11cddc587e1.png",
+    "static/media/number-guessing-game.png": "/static/media/number-guessing-game.64987cf24d91fd894877.png",
+    "static/media/notation-converter.png": "/static/media/notation-converter.642545d755a2ed2a4377.png",
     "index.html": "/index.html",
-    "main.28619d31.css.map": "/static/css/main.28619d31.css.map",
-    "main.f41b8f35.js.map": "/static/js/main.f41b8f35.js.map"
+    "main.79114167.css.map": "/static/css/main.79114167.css.map",
+    "main.6b410e11.js.map": "/static/js/main.6b410e11.js.map"
   },
   "entrypoints": [
-    "static/css/main.28619d31.css",
-    "static/js/main.f41b8f35.js"
+    "static/css/main.79114167.css",
+    "static/js/main.6b410e11.js"
   ]
 }
