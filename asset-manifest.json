@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.8f7d73da.css",
-    "main.js": "/static/js/main.e8f41eb1.js",
+    "main.js": "/static/js/main.ca2911b9.js",
     "static/media/trap-game.png": "/static/media/trap-game.16996a9b3cc68762fe6c.png",
     "static/media/nearby-app.png": "/static/media/nearby-app.03db8075e1f295de4ee1.png",
-    "static/media/profile-hero.jpg": "/static/media/profile-hero.0b1bb94534ddd2736b3e.jpg",
+    "static/media/profile-hero.jpg": "/static/media/profile-hero.76b99015294a72d01d17.jpg",
     "static/media/booking-web.png": "/static/media/booking-web.e394aade7aefb0e32560.png",
+    "static/media/gerald-romero-resume.pdf": "/static/media/gerald-romero-resume.bdefc95f31008a5a0fcf.pdf",
     "static/media/nearby-web.png": "/static/media/nearby-web.4ba92edd55f38024bdbf.png",
-    "static/media/gerald-romero-resume.pdf": "/static/media/gerald-romero-resume.6fbf9f0fea90ed6fc969.pdf",
     "static/media/rock-paper-scissor-game.png": "/static/media/rock-paper-scissor-game.c7a11b39b5641c4b66e2.png",
     "static/media/calculator.png": "/static/media/calculator.b863f8845a4f1df01595.png",
     "static/media/word-guessing-game.png": "/static/media/word-guessing-game.dd76dd58d11cddc587e1.png",
@@ -15,10 +15,10 @@
     "static/media/notation-converter.png": "/static/media/notation-converter.642545d755a2ed2a4377.png",
     "index.html": "/index.html",
     "main.8f7d73da.css.map": "/static/css/main.8f7d73da.css.map",
-    "main.e8f41eb1.js.map": "/static/js/main.e8f41eb1.js.map"
+    "main.ca2911b9.js.map": "/static/js/main.ca2911b9.js.map"
   },
   "entrypoints": [
     "static/css/main.8f7d73da.css",
-    "static/js/main.e8f41eb1.js"
+    "static/js/main.ca2911b9.js"
   ]
 }
